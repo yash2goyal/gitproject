@@ -1,4 +1,6 @@
 java is cool
 hello
 hello world
-bye Wq
+
+bye
+
